@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981464920088",
+    "firebase_url": "https://cobafirebase-ebeed.firebaseio.com",
+    "project_id": "cobafirebase-ebeed",
+    "storage_bucket": "cobafirebase-ebeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981464920088:android:55695bd156e08cfb",
+        "android_client_info": {
+          "package_name": "com.ayip.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981464920088-ulss46b6bani9ejeg53ij7le3ivuv724.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0w62KweSwkZHauaSVrt51a0INmo04JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981464920088-ulss46b6bani9ejeg53ij7le3ivuv724.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
